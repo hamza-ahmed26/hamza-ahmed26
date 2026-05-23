@@ -60,14 +60,24 @@ Motto:       Simple > clever. Correct > fast.
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dhamza-ahmed26&color=1F8ACB&logo=codeforces&logoColor=white" alt="Codeforces Rating" />
+  <a href="https://codeforces.com/profile/Hamza-Ahmed26">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces+Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=1F8ACB&logo=codeforces&logoColor=white&suffix=+pts" alt="Codeforces Rating" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Hamza-Ahmed26">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Max+Rating&query=%24.result%5B0%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=00ff88&logoColor=white&suffix=+pts" alt="Max Rating" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Hamza-Ahmed26">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rank&query=%24.result%5B0%5D.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=0d1117&logoColor=white" alt="Codeforces Rank" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Hamza's GitHub Stats" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=dark" alt="Hamza's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&cache_seconds=1800" alt="Hamza's GitHub Stats" />
 </p>
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 ## ◈ ARSENAL ◈
 
