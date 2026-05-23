@@ -60,7 +60,7 @@ Motto:       Simple > clever. Correct > fast.
 
 ---
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hamza-ahmed26&theme=dark&show_icons=true&title_color=3182ce&icon_color=3182ce&text_color=ffffff&bg_color=0d1117" alt="Hamza's CP Stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dhamza-ahmed26&color=1F8ACB&logo=codeforces&logoColor=white" alt="Codeforces Rating" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Hamza's GitHub Stats" />
