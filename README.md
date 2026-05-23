@@ -59,7 +59,14 @@ Motto:       Simple > clever. Correct > fast.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hamza-ahmed26&theme=dark&show_icons=true&title_color=3182ce&icon_color=3182ce&text_color=ffffff&bg_color=0d1117" alt="Hamza's CP Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Hamza's GitHub Stats" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=dark" alt="Hamza's Top Languages" />
+</p>
 <div align="center">
 
 ## ◈ ARSENAL ◈
