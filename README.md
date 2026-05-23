@@ -1,23 +1,10 @@
-[README (3).md](https://github.com/user-attachments/files/28173094/README.3.md)
-<div align="center">
+[README (4).md](https://github.com/user-attachments/files/28173134/README.4.md)<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00cc66,100:009944&height=130&section=header&fontSize=0"/>
-
-```text
-██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗     ██╗  ██╗ █████╗ ███████╗ █████╗ ███████╗██╗
-██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗    ██║ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██║
-███████║███████║██╔████╔██║  ███╔╝ ███████║    █████╔╝ ███████║█████╗  ███████║█████╗  ██║
-██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║    ██╔═██╗ ██╔══██║██╔══╝  ██╔══██║██╔══╝  ██║
-██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║    ██║  ██╗██║  ██║██║     ██║  ██║██║     ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝
-```
-
-<h1>[ HAMZA AHMED ]</h1>
-<h3>— IT Student · Aspiring Developer · Problem Solver —</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:00cc66,100:009944&height=200&section=header&text=HAMZA%20AHMED&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=IT%20Student%20%7C%20Aspiring%20Developer%20%7C%20Problem%20Solver&descAlignY=85&descSize=18"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=بابني+حاجات+وبتعلم+كل+يوم.;Competitive+Programmer+%7C+ICPC+Assiut.;Always+Learning.+Always+Building.;C%2B%2B+%7C+C%23+%7C+HTML%2FCSS+%7C+Java+%7C+Python.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=بابني+حاجات+وبتعلم+كل+يوم+🚀;Competitive+Programmer+%7C+ICPC+Assiut+🏆;C%2B%2B+%7C+C%23+%7C+HTML%2FCSS+%7C+Java+%7C+Python;Always+Learning.+Always+Building.+⚡;كل+error+بتتعلم+منها+هي+خطوة+للأمام+💡;المنيا،+مصر+🇪🇬+·+Grinding+every+day)](https://git.io/typing-svg)
 
 <br/>
 
@@ -81,7 +68,7 @@ Motto:       Simple > clever. Correct > fast.
 
 ### ⚙️ Systems & Low-Level
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" />
 </p>
 
@@ -92,7 +79,7 @@ Motto:       Simple > clever. Correct > fast.
 
 ### 🌐 Web & Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
@@ -104,7 +91,7 @@ Motto:       Simple > clever. Correct > fast.
 
 ### 🏢 Other Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ruby&theme=dark" />
 </p>
 
@@ -210,6 +197,18 @@ Motto:       Simple > clever. Correct > fast.
 
 <div align="center">
 
+## ◈ GITHUB TROPHIES ◈
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamza-ahmed26&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<div align="center">
+
 ## ◈ LEARNING TRAJECTORY ◈
 
 </div>
@@ -274,7 +273,19 @@ const roadmap = {
 
 <div align="center">
 
-## ◈ CONTRIBUTION GRAPH ◈
+## ◈ 3D CONTRIBUTION GRAPH ◈
+
+[![Hamza's 3D Contribution Graph](https://github-contributions-api.jogruber.de/v4/hamza-ahmed26?view=top)](https://github.com/hamza-ahmed26)
+
+> *يمكن الصورة مش شغالة في الأول — شوف الـ Actions note تحت*
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ CONTRIBUTION SNAKE ◈
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-ahmed26/hamza-ahmed26/output/github-contribution-grid-snake-dark.svg">
@@ -347,6 +358,6 @@ const roadmap = {
 
 *⚡ المنيا، مصر 🇪🇬 · IT Student · Grinding every day*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00cc66,100:009944&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:009944,50:00cc66,100:00ff88&height=150&section=footer&text=Keep%20Grinding%20⚡&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
 
 </div>
