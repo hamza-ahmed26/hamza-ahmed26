@@ -95,10 +95,11 @@ Motto:       Simple > clever. Correct > fast.
 
 <div align="center">
 
-| 🎯 | 🧠 | 🏆 | 🚀 |
-|:--:|:--:|:--:|:--:|
-| **Focus** | **Learning** | **Competing** | **Building** |
-| Algorithms & DS | C# · JS · Ruby | ICPC Assiut | Web & Tools |
+<img src="https://img.shields.io/badge/FOCUS-Algorithms_%26_DS-00E5A0?style=for-the-badge&labelColor=0d1117&logo=thealgorithms&logoColor=00E5A0" alt="Focus" />
+<img src="https://img.shields.io/badge/LEARNING-C%23_·_JS_·_Ruby-22D3EE?style=for-the-badge&labelColor=0d1117&logo=codeforces&logoColor=22D3EE" alt="Learning" />
+<br/>
+<img src="https://img.shields.io/badge/COMPETING-ICPC_Assiut-FB923C?style=for-the-badge&labelColor=0d1117&logo=icp&logoColor=FB923C" alt="Competing" />
+<img src="https://img.shields.io/badge/BUILDING-Web_%26_Tools-A78BFA?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=A78BFA" alt="Building" />
 
 </div>
 
@@ -108,26 +109,15 @@ Motto:       Simple > clever. Correct > fast.
 
 <div align="center">
 
-## ◈ 3D LANGUAGE CUBE ◈
+## ◈ TECH ARSENAL ◈
 
-<!-- فكرة مبتكرة: اللغات معروضة في شكل مكعب ثلاثي الأبعاد (isometric) -->
-<!-- مع أيقونات skillicons بزاوية + تأثير عمق -->
-
-</div>
-
-<div align="center">
-
-<!-- مكعب لغات متحرك فعليًا: بيلف + ألوانه بتتبدّل + اللغات بتدور في مدار -->
-<img src="./assets/lang-cube.svg" width="60%" alt="Rotating 3D language cube" />
+<!-- عرض ديناميكي للغات: أيقونات skillicons (دايمًا بتظهر على GitHub) -->
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,java,python,html,css,ruby&theme=dark&perline=9" alt="languages and tools" />
 
 <br/><br/>
 
-<!-- أيقونات اللغات الحقيقية تحت المكعب -->
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,java,python,html,css,ruby&theme=dark&perline=9" />
-
-<br/><br/>
-
-> 🧊 *المكعب بيلف باستمرار وألوانه بتتبدّل كل ثانية — وحواليه أسماء اللغات بتدور في مدار 3D.*
+<!-- شريط عنوان متحرك حقيقي (مستضاف — بيظهر على GitHub أكيد) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+.NET;JavaScript+%E2%80%A2+Java+%E2%80%A2+Python;HTML+%E2%80%A2+CSS+%E2%80%A2+Ruby;Always+Building+%E2%80%A2+Always+Learning" alt="rotating tech stack" />
 
 </div>
 
@@ -505,7 +495,7 @@ const roadmap = {
 
   2) SNAKE ANIMATION:
      اعمل ملف: .github/workflows/snake.yml وحط فيه:
-     ─────────────────────────────────────────────
+     ────────────────────────────────��────────────
      name: Generate Snake
      on:
        schedule: [ { cron: "0 0 * * *" } ]
