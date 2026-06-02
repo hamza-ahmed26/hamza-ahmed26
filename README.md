@@ -169,8 +169,8 @@ Motto:       Simple > clever. Correct > fast.
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | `██████░░░░░░` Intermediate | ICPC · Competitive Programming · Algorithms |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C#** | `████░░░░░░░░` Learning | OOP · .NET · Applications |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | ![60](https://geps.dev/progress/60?dangerColor=00E5A0&warningColor=22d3ee&successColor=00E5A0) `Intermediate` | ICPC · Competitive Programming · Algorithms |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C#** | ![40](https://geps.dev/progress/40?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) `Learning` | OOP · .NET · Applications |
 
 ### 🌐 Web & Frontend
 
@@ -180,9 +180,9 @@ Motto:       Simple > clever. Correct > fast.
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** | `██████░░░░░░` Intermediate | Semantic markup · Responsive design |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** | `██████░░░░░░` Intermediate | Animations · Layouts |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | `██░░░░░░░░░░` Beginner | Still exploring |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** | ![60](https://geps.dev/progress/60?dangerColor=fb923c&warningColor=fb923c&successColor=fb923c) `Intermediate` | Semantic markup · Responsive design |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** | ![60](https://geps.dev/progress/60?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) `Intermediate` | Animations · Layouts |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | ![25](https://geps.dev/progress/25?dangerColor=facc15&warningColor=facc15&successColor=facc15) `Beginner` | Still exploring |
 
 ### 🏢 Other Languages
 
@@ -192,9 +192,9 @@ Motto:       Simple > clever. Correct > fast.
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | `███░░░░░░░░░` Beginner+ | OOP · Basics |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | `███░░░░░░░░░` Beginner+ | Scripting · Automation |
-| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) **Ruby** | `██░░░░░░░░░░` Beginner | Learning |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | ![30](https://geps.dev/progress/30?dangerColor=fb923c&warningColor=fb923c&successColor=fb923c) `Beginner+` | OOP · Basics |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | ![35](https://geps.dev/progress/35?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) `Beginner+` | Scripting · Automation |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) **Ruby** | ![20](https://geps.dev/progress/20?dangerColor=f87171&warningColor=f87171&successColor=f87171) `Beginner` | Learning |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -206,20 +206,40 @@ Motto:       Simple > clever. Correct > fast.
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                               │
-│   SYSTEMS LAYER          LOGIC LAYER           INTERFACE LAYER                 │
-│   ─────────────          ────────────          ───────────────                │
-│   C++ · C#               Java · Python          HTML · CSS                     │
-│   ↓                      ↓                       ↓                             │
-│   Problem solving        OOP / Scripting         Web pages                     │
-│   ICPC training          Automation              Semantic markup               │
-│   .NET / Apps            Learning patterns       Responsive design             │
-│                                                                               │
-│   [BRIDGE: JavaScript · Ruby — exploring & expanding every day]               │
-│                                                                               │
-└─────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
+    subgraph SYS["SYSTEMS LAYER"]
+        direction TB
+        S1["C++ · C#"] --> S2["Problem Solving"] --> S3["ICPC Training"] --> S4[".NET / Apps"]
+    end
+    subgraph LOG["LOGIC LAYER"]
+        direction TB
+        L1["Java · Python"] --> L2["OOP / Scripting"] --> L3["Automation"] --> L4["Learning Patterns"]
+    end
+    subgraph UI["INTERFACE LAYER"]
+        direction TB
+        U1["HTML · CSS"] --> U2["Web Pages"] --> U3["Semantic Markup"] --> U4["Responsive Design"]
+    end
+    SYS --> LOG --> UI
+    BRIDGE(["BRIDGE: JavaScript · Ruby — exploring every day"]) -.-> SYS
+    BRIDGE -.-> UI
+
+    style SYS fill:#0d1117,stroke:#00E5A0,color:#00E5A0,stroke-width:2px
+    style LOG fill:#0d1117,stroke:#22d3ee,color:#22d3ee,stroke-width:2px
+    style UI fill:#0d1117,stroke:#fb923c,color:#fb923c,stroke-width:2px
+    style S1 fill:#11261d,stroke:#00E5A0,color:#e6fff5
+    style S2 fill:#0d1117,stroke:#00E5A0,color:#e6fff5
+    style S3 fill:#0d1117,stroke:#00E5A0,color:#e6fff5
+    style S4 fill:#0d1117,stroke:#00E5A0,color:#e6fff5
+    style L1 fill:#0e2630,stroke:#22d3ee,color:#e6fbff
+    style L2 fill:#0d1117,stroke:#22d3ee,color:#e6fbff
+    style L3 fill:#0d1117,stroke:#22d3ee,color:#e6fbff
+    style L4 fill:#0d1117,stroke:#22d3ee,color:#e6fbff
+    style U1 fill:#2a1a0d,stroke:#fb923c,color:#fff0e6
+    style U2 fill:#0d1117,stroke:#fb923c,color:#fff0e6
+    style U3 fill:#0d1117,stroke:#fb923c,color:#fff0e6
+    style U4 fill:#0d1117,stroke:#fb923c,color:#fff0e6
+    style BRIDGE fill:#1a1530,stroke:#a78bfa,color:#ede9ff,stroke-width:2px
 ```
 
 ---
@@ -230,15 +250,38 @@ Motto:       Simple > clever. Correct > fast.
 
 </div>
 
-```
-┌──────────────────────┐   ┌──────────────────────┐   ┌──────────────────────┐
-│  🏆 COMPETITIVE CP   │   │  🌐 WEB PROJECTS     │   │  🔧 SCRIPTING        │
-│                      │   │                      │   │                      │
-│  ICPC Assiut Sheet   │   │  HTML/CSS Pages      │   │  Python Scripts      │
-│  Problem Solving     │   │  Responsive Layouts  │   │  Automation          │
-│  Algorithms          │   │  Web Interfaces      │   │  Utilities           │
-│  Data Structures     │   │  Static Sites        │   │  Tools               │
-└──────────────────────┘   └──────────────────────┘   └──────────────────────┘
+```mermaid
+flowchart LR
+    ROOT(("WHAT I<br/>BUILD"))
+    ROOT --> CP["COMPETITIVE CP"]
+    ROOT --> WEB["WEB PROJECTS"]
+    ROOT --> SCR["SCRIPTING"]
+
+    CP --> CP1["ICPC Assiut Sheet"]
+    CP --> CP2["Problem Solving"]
+    CP --> CP3["Algorithms & DS"]
+
+    WEB --> WB1["HTML/CSS Pages"]
+    WEB --> WB2["Responsive Layouts"]
+    WEB --> WB3["Static Sites"]
+
+    SCR --> SC1["Python Scripts"]
+    SCR --> SC2["Automation"]
+    SCR --> SC3["Utilities & Tools"]
+
+    style ROOT fill:#1a1530,stroke:#a78bfa,color:#ede9ff,stroke-width:3px
+    style CP fill:#0d1117,stroke:#00E5A0,color:#00E5A0,stroke-width:2px
+    style WEB fill:#0d1117,stroke:#22d3ee,color:#22d3ee,stroke-width:2px
+    style SCR fill:#0d1117,stroke:#fb923c,color:#fb923c,stroke-width:2px
+    style CP1 fill:#11261d,stroke:#00E5A0,color:#e6fff5
+    style CP2 fill:#11261d,stroke:#00E5A0,color:#e6fff5
+    style CP3 fill:#11261d,stroke:#00E5A0,color:#e6fff5
+    style WB1 fill:#0e2630,stroke:#22d3ee,color:#e6fbff
+    style WB2 fill:#0e2630,stroke:#22d3ee,color:#e6fbff
+    style WB3 fill:#0e2630,stroke:#22d3ee,color:#e6fbff
+    style SC1 fill:#2a1a0d,stroke:#fb923c,color:#fff0e6
+    style SC2 fill:#2a1a0d,stroke:#fb923c,color:#fff0e6
+    style SC3 fill:#2a1a0d,stroke:#fb923c,color:#fff0e6
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -490,7 +533,7 @@ const roadmap = {
 <!-- ════════════════════════════════════════════════════════════════════════
   ⚙️  SETUP NOTES (احذف القسم ده بعد ما تظبط كل حاجة)
   ────────────────────────────────────────────────────────────────────────
-  1) ضيف ريبو اسمه نفس اسمك: hamza-ahmed26/hamza-ahmed26
+  1) ضيف ريبو اسم�� نفس اسمك: hamza-ahmed26/hamza-ahmed26
      عشان الريدمي ده يظهر في صفحتك الشخصية.
 
   2) SNAKE ANIMATION:
