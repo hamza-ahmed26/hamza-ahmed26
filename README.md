@@ -1,30 +1,28 @@
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                          HAMZA AHMED · GITHUB PROFILE                      -->
-<!--           Crafted with ⚡ · Always Learning · Always Building              -->
-<!--          Dynamic · Color-Shifting · 3D Language Showcase Edition           -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                          HAMZA AHMED · GITHUB PROFILE                              -->
+<!--           Crafted with ⚡ · Always Learning · Always Building                      -->
+<!--          Dynamic · Color-Shifting · 3D Language Showcase Edition                   -->
+<!-- ════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░ MEGA ANIMATED NAME ░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- اسم ضخم بارز + موجة ألوان بتتغير (rainbow gradient + glitch) -->
 
 <a href="https://github.com/hamza-ahmed26">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,12,16,20,24,28&height=280&section=header&text=HAMZA%20AHMED&fontSize=90&fontColor=ffffff&animation=fadeIn&stroke=00ff88&strokeWidth=2&fontAlignY=42&desc=IT%20Student%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver&descAlignY=68&descSize=20" alt="Hamza Ahmed"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,12,16,20,24,28&height=280&section=header&text=HAMZA%20AHMED&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=51&descAlign=50" alt="HAMZA AHMED Header"/>
 </a>
 
 <!-- ░░░░░░░░░░░░░░░░░ SECOND COLOR-SHIFTING NAME BANNER ░░░░░░░░░░░░░░░ -->
-<!-- بانر تاني للاسم بألوان نيون بتلمع وبتتبدل -->
 
 <picture>
-  <img width="92%" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&duration=3000&pause=600&color=00FF88&background=0D111700&center=true&vCenter=true&width=1000&height=120&lines=HAMZA+AHMED;%D8%AD%D9%85%D8%B2%D8%A9+%D8%A3%D8%AD%D9%85%D8%AF;%E2%9A%A1+H+A+M+Z+A+%E2%9A%A1;%3C+CODE+%2F+CREATE+%2F+CONQUER+%3E" alt="Hamza Ahmed Name"/>
+  <img width="92%" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&duration=3000&pause=600&color=00FF88&background=0D111700&center=true&vCenter=true&width=1000&height=120&lines=Competitive+Programmer;C%2B%2B+%26+Problem+Solver;Building+Web+%26+Tools" alt="Dynamic Text"/>
 </picture>
 
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=720&lines=%D8%A8%D8%A8%D9%86%D9%8A+%D8%AD%D8%A7%D8%AC%D8%A7%D8%AA+%D9%88%D8%A8%D8%AA%D8%B9%D9%84%D9%85+%D9%83%D9%84+%D9%8A%D9%88%D9%85+%F0%9F%9A%80;Competitive+Programmer+%7C+ICPC+Assiut+%F0%9F%8F%86;C%2B%2B+%7C+C%23+%7C+HTML%2FCSS+%7C+Java+%7C+Python;Always+Learning.+Always+Building.+%E2%9A%A1;%D9%83%D9%84+error+%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85+%D9%85%D9%86%D9%87%D8%A7+%D9%87%D9%8A+%D8%AE%D8%B7%D9%88%D8%A9+%D9%84%D9%84%D8%A3%D9%85%D8%A7%D9%85+%F0%9F%92%A1;%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7%D8%8C+%D9%85%D8%B5%D8%B1+%F0%9F%87%AA%F0%9F%87%AC+%C2%B7+Grinding+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=720&lines=Welcome+to+my+GitHub+Profile+🚀;طالب+تقنية+معلومات+من+مصر+🇪🇬;Grinding+Codeforces+%26+ICPC+Assiut)](https://github.com/hamza-ahmed26)
 
 <br/>
 
@@ -45,8 +43,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ QUICK NAV CHIPS ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <a href="#-who-am-i-"><img src="https://img.shields.io/badge/%E2%97%88-WHO%20AM%20I-0d1117?style=flat-square&labelColor=00ff88"/></a>
-<a href="#-3d-language-cube-"><img src="https://img.shields.io/badge/%E2%97%88-3D%20LANG%20CUBE-0d1117?style=flat-square&labelColor=22d3ee"/></a>
-<a href="#-arsenal-"><img src="https://img.shields.io/badge/%E2%97%88-ARSENAL-0d1117?style=flat-square&labelColor=00cc66"/></a>
+<a href="#-tech-arsenal-"><img src="https://img.shields.io/badge/%E2%97%88-ARSENAL-0d1117?style=flat-square&labelColor=22d3ee"/></a>
 <a href="#-github-metrics-"><img src="https://img.shields.io/badge/%E2%97%88-METRICS-0d1117?style=flat-square&labelColor=f59e0b"/></a>
 <a href="#-competitive-programming-"><img src="https://img.shields.io/badge/%E2%97%88-CP%20ARENA-0d1117?style=flat-square&labelColor=00cc66"/></a>
 <a href="#-reach-me-"><img src="https://img.shields.io/badge/%E2%97%88-CONTACT-0d1117?style=flat-square&labelColor=22d3ee"/></a>
@@ -63,7 +60,7 @@
 
 </div>
 
-> *"كل error بتتعلم منها هي خطوة للأمام."*
+> *"كل error بتتعلم منها هي خطوة للأمام."* — Every error is a step forward.
 
 <table align="center">
 <tr>
@@ -111,13 +108,11 @@ Motto:       Simple > clever. Correct > fast.
 
 ## ◈ TECH ARSENAL ◈
 
-<!-- عرض ديناميكي للغات: أيقونات skillicons (دايمًا بتظهر على GitHub) -->
 <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,java,python,html,css,ruby&theme=dark&perline=9" alt="languages and tools" />
 
 <br/><br/>
 
-<!-- شريط عنوان متحرك حقيقي (مستضاف — بيظهر على GitHub أكيد) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+.NET;JavaScript+%E2%80%A2+Java+%E2%80%A2+Python;HTML+%E2%80%A2+CSS+%E2%80%A2+Ruby;Always+Building+%E2%80%A2+Always+Learning" alt="rotating tech stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+.NET;JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Java+%E2%80%A2+Python+%E2%80%A2+Ruby" alt="Skills"/>
 
 </div>
 
@@ -131,19 +126,19 @@ Motto:       Simple > clever. Correct > fast.
 
 <p align="center">
   <a href="https://codeforces.com/profile/Hamza-Ahmed26">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces+Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=1F8ACB&logo=codeforces&logoColor=white&suffix=+pts" alt="Codeforces Rating" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces+Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=1F8ACB&labelColor=0d1117" alt="Codeforces Rating"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/Hamza-Ahmed26">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Max+Rating&query=%24.result%5B0%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=00ff88&logoColor=white&suffix=+pts" alt="Max Rating" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Max+Rating&query=%24.result%5B0%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=1F8ACB&labelColor=0d1117" alt="Max Rating"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/Hamza-Ahmed26">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rank&query=%24.result%5B0%5D.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=0d1117&logoColor=white" alt="Codeforces Rank" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rank&query=%24.result%5B0%5D.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=1F8ACB&labelColor=0d1117" alt="Rank"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/Hamza-Ahmed26">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contribution&query=%24.result%5B0%5D.contribution&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=009944&logoColor=white" alt="Codeforces Contribution" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Problems+Solved&query=%24.result%5B0%5D.contribution&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=1F8ACB&labelColor=0d1117" alt="Problems"/>
   </a>
 </p>
 
@@ -157,44 +152,44 @@ Motto:       Simple > clever. Correct > fast.
 
 <div align="center">
 
-## ◈ ARSENAL ◈
+## ◈ DETAILED ARSENAL ◈
 
 </div>
 
 ### ⚙️ Systems & Low-Level
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet&theme=dark" alt="Systems Languages"/>
 </p>
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | ![60](https://geps.dev/progress/60?dangerColor=00E5A0&warningColor=22d3ee&successColor=00E5A0) `Intermediate` | ICPC · Competitive Programming · Algorithms |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C#** | ![40](https://geps.dev/progress/40?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) `Learning` | OOP · .NET · Applications |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | ![60%](https://geps.dev/progress/60?dangerColor=00E5A0&warningColor=22d3ee&successColor=00E5A0) | Competitive Programming, Problem Solving, ICPC Training |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C#** | ![40%](https://geps.dev/progress/40?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) | .NET Development, Learning |
 
 ### 🌐 Web & Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="Web Technologies"/>
 </p>
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** | ![60](https://geps.dev/progress/60?dangerColor=fb923c&warningColor=fb923c&successColor=fb923c) `Intermediate` | Semantic markup · Responsive design |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** | ![60](https://geps.dev/progress/60?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) `Intermediate` | Animations · Layouts |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | ![25](https://geps.dev/progress/25?dangerColor=facc15&warningColor=facc15&successColor=facc15) `Beginner` | Still exploring |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** | ![60%](https://geps.dev/progress/60?dangerColor=fb923c&warningColor=fb923c&successColor=fb923c) | Semantic Markup, Web Pages |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** | ![60%](https://geps.dev/progress/60?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) | Responsive Design, Styling |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | ![25%](https://geps.dev/progress/25?dangerColor=facc15&warningColor=facc15&successColor=facc15) | Exploring, Learning |
 
 ### 🏢 Other Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ruby&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,ruby&theme=dark" alt="Other Languages"/>
 </p>
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | ![30](https://geps.dev/progress/30?dangerColor=fb923c&warningColor=fb923c&successColor=fb923c) `Beginner+` | OOP · Basics |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | ![35](https://geps.dev/progress/35?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) `Beginner+` | Scripting · Automation |
-| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) **Ruby** | ![20](https://geps.dev/progress/20?dangerColor=f87171&warningColor=f87171&successColor=f87171) `Beginner` | Learning |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | ![30%](https://geps.dev/progress/30?dangerColor=fb923c&warningColor=fb923c&successColor=fb923c) | OOP Concepts |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | ![35%](https://geps.dev/progress/35?dangerColor=22d3ee&warningColor=22d3ee&successColor=22d3ee) | Scripting, Automation |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) **Ruby** | ![20%](https://geps.dev/progress/20?dangerColor=f87171&warningColor=f87171&successColor=f87171) | Learning |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -296,13 +291,13 @@ flowchart LR
 
 ```
 01  ما تبعتش كود مش فاهمه — Never ship code you don't understand
-02  الـ Performance مش extra — هي الأصل
-03  افهم المشكلة قبل ما تكتب سطر واحد
-04  الـ Tests بتوضح الكود أكتر من الـ comments
-05  أبسط حل صح أحسن من أعقد حل ذكي
+02  الـ Performance مش extra — هي الأصل — Performance is not optional
+03  افهم المشكلة قبل ما تكتب سطر واحد — Understand before coding
+04  الـ Tests بتوضح الكود أكتر من الـ comments — Tests speak louder
+05  أبسط حل صح أحسن من أعقد حل ذكي — Simple beats clever
 06  Simple > clever. Correct > fast. Readable > both.
-07  كل error بتتعلم منها هي خطوة للأمام
-08  ICPC problems = أفضل مدرسة برمجة
+07  كل error بتتعلم منها هي خطوة للأمام — Every error is learning
+08  ICPC problems = أفضل مدرسة برمجة — Best programming school
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -314,18 +309,18 @@ flowchart LR
 ## ◈ GITHUB METRICS ◈
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&cache_seconds=1800">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&cache_seconds=1800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&include_all_commits=true">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&include_all_commits=true" alt="GitHub Stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hamza-ahmed26&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=hamza-ahmed26&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hamza-ahmed26&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=&dates=20210101-20260602">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=hamza-ahmed26&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak">
 </picture>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=10&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-ahmed26&bg_color=0d1117&color=00ff88&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" alt="Top Languages">
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-ahmed26&bg_color=0d1117&color=00ff88&line=22d3ee&point=ffffff&area=true&hide_border=true&theme=rogue" alt="Activity Graph"/>
 
 </div>
 
@@ -432,8 +427,6 @@ const roadmap = {
 
 [![Hamza's 3D Contribution Graph](https://github-contributions-api.jogruber.de/v4/hamza-ahmed26?view=top)](https://github.com/hamza-ahmed26)
 
-> *يمكن الصورة مش شغالة في الأول — شوف الـ Actions note تحت*
-
 </div>
 
 ---
@@ -523,43 +516,9 @@ const roadmap = {
 
 > *"Build real projects. Learn deeply. Ship it."*
 
-*⚡ الم��يا، مصر 🇪🇬 · IT Student · Grinding every day*
+*⚡ المنيا، مصر 🇪🇬 · IT Student · Grinding every day*
 
 <!-- ░░░░░░░░░░░░░░░ COLOR-SHIFTING FOOTER WAVE ░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16,12,4,3,2&height=160&section=footer&text=Keep%20Grinding%20%E2%9A%A1&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16,12,4,3,2&height=160&section=footer&text=Keep%20Grinding%20%E2%9A%A1&fontSize=34&fontColor=ffffff&animation=fadeIn&descAlign=50" alt="Footer"/>
 
 </div>
-
-<!-- ════════════════════════════════════════════════════════════════════════
-  ⚙️  SETUP NOTES (احذف القسم ده بعد ما تظبط كل حاجة)
-  ────────────────────────────────────────────────────────────────────────
-  1) ضيف ريبو اسم�� نفس اسمك: hamza-ahmed26/hamza-ahmed26
-     عشان الريدمي ده يظهر في صفحتك الشخصية.
-
-  2) SNAKE ANIMATION:
-     اعمل ملف: .github/workflows/snake.yml وحط فيه:
-     ────────────────────────────────��────────────
-     name: Generate Snake
-     on:
-       schedule: [ { cron: "0 0 * * *" } ]
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: hamza-ahmed26
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     ─────────────────────────────────────────────
-
-  3) الـ badges الديناميكية بتاعة Codeforces شغّالة أوتوماتيك من الـ API.
-═════════════════════════════════════════════════════════════════════════ -->
