@@ -1,18 +1,39 @@
-[README (4).md](https://github.com/user-attachments/files/28173134/README.4.md)<div align="center">
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          HAMZA AHMED · GITHUB PROFILE                      -->
+<!--                  Crafted with ⚡ · Always Learning · Always Building       -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:00cc66,100:009944&height=200&section=header&text=HAMZA%20AHMED&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=IT%20Student%20%7C%20Aspiring%20Developer%20%7C%20Problem%20Solver&descAlignY=85&descSize=18"/>
+<div align="center">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░ HEADER WAVE ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:00cc66,100:009944&height=220&section=header&text=HAMZA%20AHMED&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=62&desc=IT%20Student%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver&descAlignY=84&descSize=18"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=بابني+حاجات+وبتعلم+كل+يوم+🚀;Competitive+Programmer+%7C+ICPC+Assiut+🏆;C%2B%2B+%7C+C%23+%7C+HTML%2FCSS+%7C+Java+%7C+Python;Always+Learning.+Always+Building.+⚡;كل+error+بتتعلم+منها+هي+خطوة+للأمام+💡;المنيا،+مصر+🇪🇬+·+Grinding+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=720&lines=%D8%A8%D8%A8%D9%86%D9%8A+%D8%AD%D8%A7%D8%AC%D8%A7%D8%AA+%D9%88%D8%A8%D8%AA%D8%B9%D9%84%D9%85+%D9%83%D9%84+%D9%8A%D9%88%D9%85+%F0%9F%9A%80;Competitive+Programmer+%7C+ICPC+Assiut+%F0%9F%8F%86;C%2B%2B+%7C+C%23+%7C+HTML%2FCSS+%7C+Java+%7C+Python;Always+Learning.+Always+Building.+%E2%9A%A1;%D9%83%D9%84+error+%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85+%D9%85%D9%86%D9%87%D8%A7+%D9%87%D9%8A+%D8%AE%D8%B7%D9%88%D8%A9+%D9%84%D9%84%D8%A3%D9%85%D8%A7%D9%85+%F0%9F%92%A1;%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7%D8%8C+%D9%85%D8%B5%D8%B1+%F0%9F%87%AA%F0%9F%87%AC+%C2%B7+Grinding+every+day)](https://git.io/typing-svg)
 
 <br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ BADGES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamza-ahmed26&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hamza-ahmed26?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS)](https://github.com/hamza-ahmed26)
+[![GitHub followers](https://img.shields.io/github/followers/hamza-ahmed26?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS)](https://github.com/hamza-ahmed26?tab=followers)
 &nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/hamza-ahmed26?style=for-the-badge&color=00ff88&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/hamza-ahmed26)
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ QUICK NAV CHIPS ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<a href="#-who-am-i-"><img src="https://img.shields.io/badge/%E2%97%88-WHO%20AM%20I-0d1117?style=flat-square&labelColor=00ff88"/></a>
+<a href="#-arsenal-"><img src="https://img.shields.io/badge/%E2%97%88-ARSENAL-0d1117?style=flat-square&labelColor=00cc66"/></a>
+<a href="#-github-metrics-"><img src="https://img.shields.io/badge/%E2%97%88-METRICS-0d1117?style=flat-square&labelColor=00ff88"/></a>
+<a href="#-competitive-programming-"><img src="https://img.shields.io/badge/%E2%97%88-CP%20ARENA-0d1117?style=flat-square&labelColor=00cc66"/></a>
+<a href="#-reach-me-"><img src="https://img.shields.io/badge/%E2%97%88-CONTACT-0d1117?style=flat-square&labelColor=00ff88"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -53,12 +74,28 @@ Motto:       Simple > clever. Correct > fast.
 </tr>
 </table>
 
-طالب تقنية معلومات شغوف بحل المسائل البرمجية والـ **Competitive Programming**.  
+طالب تقنية معلومات شغوف بحل المسائل البرمجية والـ **Competitive Programming**.
 بشتغل على تحسين مهاراتي في `C++` ومتابع شيتات **ICPC أسيوط** — وبتعلم كل يوم حاجة جديدة.
+
+<div align="center">
+
+<!-- ░░░░░░░░░░░░░░░░░░ ABOUT QUICK FACTS ░░░░░░░░░░░░░░░░░░ -->
+
+| 🎯 | 🧠 | 🏆 | 🚀 |
+|:--:|:--:|:--:|:--:|
+| **Focus** | **Learning** | **Competing** | **Building** |
+| Algorithms & DS | C# · JS · Ruby | ICPC Assiut | Web & Tools |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
+
+<div align="center">
+
+## ◈ LIVE CODEFORCES PULSE ◈
+
 <p align="center">
   <a href="https://codeforces.com/profile/Hamza-Ahmed26">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces+Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=1F8ACB&logo=codeforces&logoColor=white&suffix=+pts" alt="Codeforces Rating" />
@@ -71,13 +108,21 @@ Motto:       Simple > clever. Correct > fast.
   <a href="https://codeforces.com/profile/Hamza-Ahmed26">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rank&query=%24.result%5B0%5D.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=0d1117&logoColor=white" alt="Codeforces Rank" />
   </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Hamza-Ahmed26">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contribution&query=%24.result%5B0%5D.contribution&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DHamza-Ahmed26&color=009944&logoColor=white" alt="Codeforces Contribution" />
+  </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&cache_seconds=1800" alt="Hamza's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=10&cache_seconds=1800" alt="Top Languages" />
-</p>
+
+> 🔴 *الأرقام دي بتتحدّث لايف من Codeforces API — كل مرة الصفحة بتتفتح بتجيب آخر rating.*
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<div align="center">
 
 ## ◈ ARSENAL ◈
 
@@ -86,25 +131,25 @@ Motto:       Simple > clever. Correct > fast.
 ### ⚙️ Systems & Low-Level
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet&theme=dark" />
 </p>
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | ██████░░░░░░ Intermediate | ICPC · Competitive Programming · Algorithms |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C#** | ████░░░░░░░░ Learning | OOP · .NET · Applications |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++** | `██████░░░░░░` Intermediate | ICPC · Competitive Programming · Algorithms |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C#** | `████░░░░░░░░` Learning | OOP · .NET · Applications |
 
 ### 🌐 Web & Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
 </p>
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** | ██████░░░░░░ Intermediate | Semantic markup · Responsive design |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** | ██████░░░░░░ Intermediate | Animations · Layouts |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | ██░░░░░░░░░░ Beginner | Still exploring |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** | `██████░░░░░░` Intermediate | Semantic markup · Responsive design |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** | `██████░░░░░░` Intermediate | Animations · Layouts |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | `██░░░░░░░░░░` Beginner | Still exploring |
 
 ### 🏢 Other Languages
 
@@ -114,9 +159,9 @@ Motto:       Simple > clever. Correct > fast.
 
 | Language | Proficiency | Use Case |
 |----------|------------|----------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | ███░░░░░░░░░ Beginner+ | OOP · Basics |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | ███░░░░░░░░░ Beginner+ | Scripting · Automation |
-| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) **Ruby** | ██░░░░░░░░░░ Beginner | Learning |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | `███░░░░░░░░░` Beginner+ | OOP · Basics |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | `███░░░░░░░░░` Beginner+ | Scripting · Automation |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) **Ruby** | `██░░░░░░░░░░` Beginner | Learning |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -130,17 +175,17 @@ Motto:       Simple > clever. Correct > fast.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   SYSTEMS LAYER          LOGIC LAYER           INTERFACE LAYER             │
-│   ─────────────          ────────────          ───────────────             │
-│   C++ · C#               Java · Python          HTML · CSS                 │
-│   ↓                      ↓                      ↓                          │
-│   Problem solving        OOP / Scripting         Web pages                 │
-│   ICPC training          Automation              Semantic markup            │
-│   .NET / Apps            Learning patterns       Responsive design          │
-│                                                                             │
-│   [BRIDGE: JavaScript · Ruby — exploring & expanding every day]            │
-│                                                                             │
+│                                                                               │
+│   SYSTEMS LAYER          LOGIC LAYER           INTERFACE LAYER                 │
+│   ─────────────          ────────────          ───────────────                │
+│   C++ · C#               Java · Python          HTML · CSS                     │
+│   ↓                      ↓                       ↓                             │
+│   Problem solving        OOP / Scripting         Web pages                     │
+│   ICPC training          Automation              Semantic markup               │
+│   .NET / Apps            Learning patterns       Responsive design             │
+│                                                                               │
+│   [BRIDGE: JavaScript · Ruby — exploring & expanding every day]               │
+│                                                                               │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -154,12 +199,12 @@ Motto:       Simple > clever. Correct > fast.
 
 ```
 ┌──────────────────────┐   ┌──────────────────────┐   ┌──────────────────────┐
-│  🏆 COMPETITIVE CP   │   │  🌐 WEB PROJECTS      │   │  🔧 SCRIPTING        │
+│  🏆 COMPETITIVE CP   │   │  🌐 WEB PROJECTS     │   │  🔧 SCRIPTING        │
 │                      │   │                      │   │                      │
-│  ICPC Assiut Sheet   │   │  HTML/CSS Pages       │   │  Python Scripts      │
-│  Problem Solving     │   │  Responsive Layouts   │   │  Automation          │
-│  Algorithms          │   │  Web Interfaces       │   │  Utilities           │
-│  Data Structures     │   │  Static Sites         │   │  Tools               │
+│  ICPC Assiut Sheet   │   │  HTML/CSS Pages      │   │  Python Scripts      │
+│  Problem Solving     │   │  Responsive Layouts  │   │  Automation          │
+│  Algorithms          │   │  Web Interfaces      │   │  Utilities           │
+│  Data Structures     │   │  Static Sites        │   │  Tools               │
 └──────────────────────┘   └──────────────────────┘   └──────────────────────┘
 ```
 
@@ -193,8 +238,8 @@ Motto:       Simple > clever. Correct > fast.
 ## ◈ GITHUB METRICS ◈
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&cache_seconds=1800">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&cache_seconds=1800">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hamza-ahmed26&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88">
@@ -203,7 +248,7 @@ Motto:       Simple > clever. Correct > fast.
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=10&cache_seconds=1800"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-ahmed26&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/>
 
 </div>
@@ -226,13 +271,44 @@ Motto:       Simple > clever. Correct > fast.
 
 <div align="center">
 
+## ◈ COMPETITIVE PROGRAMMING ◈
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Hamza--Ahmed26-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Hamza-Ahmed26)
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░ CP JOURNEY ROADMAP ░░░░░░░░░░░░░░░░ -->
+
+```mermaid
+graph LR
+    A[🌱 Basics] --> B[📚 Data Structures]
+    B --> C[⚙️ Algorithms]
+    C --> D[🏆 ICPC Assiut]
+    D --> E[🚀 ICPC Regional]
+    style A fill:#0d1117,stroke:#00ff88,color:#00ff88
+    style B fill:#0d1117,stroke:#00cc66,color:#00cc66
+    style C fill:#0d1117,stroke:#00ff88,color:#00ff88
+    style D fill:#0d1117,stroke:#00cc66,color:#00cc66
+    style E fill:#0d1117,stroke:#00ff88,color:#00ff88
+```
+
+> Grinding problems. One AC at a time. 🧠
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<div align="center">
+
 ## ◈ LEARNING TRAJECTORY ◈
 
 </div>
 
 <table align="center" width="90%">
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **✅ Completed**
 ```diff
@@ -244,7 +320,7 @@ Motto:       Simple > clever. Correct > fast.
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **🔄 Active**
 ```yaml
@@ -256,12 +332,12 @@ Current:
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **⏳ Next**
 ```javascript
 const roadmap = {
-  cp: ['Advanced algorithms'],
+  cp: ['Advanced algos'],
   web: ['JS frameworks'],
   systems: ['C# advanced'],
   goal: ['ICPC regional'],
@@ -273,18 +349,6 @@ const roadmap = {
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<div align="center">
-
-## ◈ CODEFORCES STATS ◈
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Hamza--Ahmed26-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Hamza-Ahmed26)
-
-> Grinding problems. One AC at a time. 🧠
-
-</div>
 
 ---
 
@@ -309,6 +373,18 @@ const roadmap = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-ahmed26/hamza-ahmed26/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/hamza-ahmed26/hamza-ahmed26/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<div align="center">
+
+## ◈ RANDOM DEV QUOTE ◈
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&border=true" alt="Random Dev Quote"/>
 
 </div>
 
@@ -375,6 +451,40 @@ const roadmap = {
 
 *⚡ المنيا، مصر 🇪🇬 · IT Student · Grinding every day*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:009944,50:00cc66,100:00ff88&height=150&section=footer&text=Keep%20Grinding%20⚡&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:009944,50:00cc66,100:00ff88&height=150&section=footer&text=Keep%20Grinding%20%E2%9A%A1&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
 
 </div>
+
+<!-- ════════════════════════════════════════════════════════════════════════
+  ⚙️  SETUP NOTES (احذف القسم ده بعد ما تظبط كل حاجة)
+  ────────────────────────────────────────────────────────────────────────
+  1) ضيف ريبو اسمه نفس اسمك: hamza-ahmed26/hamza-ahmed26
+     عشان الريدمي ده يظهر في صفحتك الشخصية.
+
+  2) SNAKE ANIMATION:
+     اعمل ملف: .github/workflows/snake.yml وحط فيه:
+     ─────────────────────────────────────────────
+     name: Generate Snake
+     on:
+       schedule: [ { cron: "0 0 * * *" } ]
+       workflow_dispatch:
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: hamza-ahmed26
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     ─────────────────────────────────────────────
+
+  3) الـ badges الديناميكية بتاعة Codeforces شغّالة أوتوماتيك من الـ API.
+═════════════════════════════════════════════════════════════════════════ -->
