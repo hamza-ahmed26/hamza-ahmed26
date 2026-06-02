@@ -1,39 +1,55 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!--                          HAMZA AHMED · GITHUB PROFILE                      -->
-<!--                  Crafted with ⚡ · Always Learning · Always Building       -->
+<!--           Crafted with ⚡ · Always Learning · Always Building              -->
+<!--          Dynamic · Color-Shifting · 3D Language Showcase Edition           -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░ HEADER WAVE ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░ MEGA ANIMATED NAME ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- اسم ضخم بارز + موجة ألوان بتتغير (rainbow gradient + glitch) -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:00cc66,100:009944&height=220&section=header&text=HAMZA%20AHMED&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=62&desc=IT%20Student%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver&descAlignY=84&descSize=18"/>
+<a href="https://github.com/hamza-ahmed26">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,12,16,20,24,28&height=280&section=header&text=HAMZA%20AHMED&fontSize=90&fontColor=ffffff&animation=fadeIn&stroke=00ff88&strokeWidth=2&fontAlignY=42&desc=IT%20Student%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver&descAlignY=68&descSize=20" alt="Hamza Ahmed"/>
+</a>
+
+<!-- ░░░░░░░░░░░░░░░░░ SECOND COLOR-SHIFTING NAME BANNER ░░░░░░░░░░░░░░░ -->
+<!-- بانر تاني للاسم بألوان نيون بتلمع وبتتبدل -->
+
+<picture>
+  <img width="92%" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&duration=3000&pause=600&color=00FF88&background=0D111700&center=true&vCenter=true&width=1000&height=120&lines=HAMZA+AHMED;%D8%AD%D9%85%D8%B2%D8%A9+%D8%A3%D8%AD%D9%85%D8%AF;%E2%9A%A1+H+A+M+Z+A+%E2%9A%A1;%3C+CODE+%2F+CREATE+%2F+CONQUER+%3E" alt="Hamza Ahmed Name"/>
+</picture>
+
+<br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=720&lines=%D8%A8%D8%A8%D9%86%D9%8A+%D8%AD%D8%A7%D8%AC%D8%A7%D8%AA+%D9%88%D8%A8%D8%AA%D8%B9%D9%84%D9%85+%D9%83%D9%84+%D9%8A%D9%88%D9%85+%F0%9F%9A%80;Competitive+Programmer+%7C+ICPC+Assiut+%F0%9F%8F%86;C%2B%2B+%7C+C%23+%7C+HTML%2FCSS+%7C+Java+%7C+Python;Always+Learning.+Always+Building.+%E2%9A%A1;%D9%83%D9%84+error+%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85+%D9%85%D9%86%D9%87%D8%A7+%D9%87%D9%8A+%D8%AE%D8%B7%D9%88%D8%A9+%D9%84%D9%84%D8%A3%D9%85%D8%A7%D9%85+%F0%9F%92%A1;%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7%D8%8C+%D9%85%D8%B5%D8%B1+%F0%9F%87%AA%F0%9F%87%AC+%C2%B7+Grinding+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=720&lines=%D8%A8%D8%A8%D9%86%D9%8A+%D8%AD%D8%A7%D8%AC%D8%A7%D8%AA+%D9%88%D8%A8%D8%AA%D8%B9%D9%84%D9%85+%D9%83%D9%84+%D9%8A%D9%88%D9%85+%F0%9F%9A%80;Competitive+Programmer+%7C+ICPC+Assiut+%F0%9F%8F%86;C%2B%2B+%7C+C%23+%7C+HTML%2FCSS+%7C+Java+%7C+Python;Always+Learning.+Always+Building.+%E2%9A%A1;%D9%83%D9%84+error+%D8%A8%D8%AA%D8%AA%D8%B9%D9%84%D9%85+%D9%85%D9%86%D9%87%D8%A7+%D9%87%D9%8A+%D8%AE%D8%B7%D9%88%D8%A9+%D9%84%D9%84%D8%A3%D9%85%D8%A7%D9%85+%F0%9F%92%A1;%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7%D8%8C+%D9%85%D8%B5%D8%B1+%F0%9F%87%AA%F0%9F%87%AC+%C2%B7+Grinding+every+day)](https://git.io/typing-svg)
 
 <br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░ COLOR-SHIFTING DIVIDER ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rainbow%20Line.gif" width="100%" alt="rainbow divider"/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ BADGES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamza-ahmed26&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hamza-ahmed26?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS)](https://github.com/hamza-ahmed26?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/hamza-ahmed26?style=for-the-badge&color=22d3ee&labelColor=0d1117&label=FOLLOWERS)](https://github.com/hamza-ahmed26?tab=followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/hamza-ahmed26?style=for-the-badge&color=00ff88&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/hamza-ahmed26)
+[![GitHub Stars](https://img.shields.io/github/stars/hamza-ahmed26?style=for-the-badge&color=f59e0b&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/hamza-ahmed26)
 
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ QUICK NAV CHIPS ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <a href="#-who-am-i-"><img src="https://img.shields.io/badge/%E2%97%88-WHO%20AM%20I-0d1117?style=flat-square&labelColor=00ff88"/></a>
+<a href="#-3d-language-cube-"><img src="https://img.shields.io/badge/%E2%97%88-3D%20LANG%20CUBE-0d1117?style=flat-square&labelColor=22d3ee"/></a>
 <a href="#-arsenal-"><img src="https://img.shields.io/badge/%E2%97%88-ARSENAL-0d1117?style=flat-square&labelColor=00cc66"/></a>
-<a href="#-github-metrics-"><img src="https://img.shields.io/badge/%E2%97%88-METRICS-0d1117?style=flat-square&labelColor=00ff88"/></a>
+<a href="#-github-metrics-"><img src="https://img.shields.io/badge/%E2%97%88-METRICS-0d1117?style=flat-square&labelColor=f59e0b"/></a>
 <a href="#-competitive-programming-"><img src="https://img.shields.io/badge/%E2%97%88-CP%20ARENA-0d1117?style=flat-square&labelColor=00cc66"/></a>
-<a href="#-reach-me-"><img src="https://img.shields.io/badge/%E2%97%88-CONTACT-0d1117?style=flat-square&labelColor=00ff88"/></a>
+<a href="#-reach-me-"><img src="https://img.shields.io/badge/%E2%97%88-CONTACT-0d1117?style=flat-square&labelColor=22d3ee"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -79,8 +95,6 @@ Motto:       Simple > clever. Correct > fast.
 
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░ ABOUT QUICK FACTS ░░░░░░░░░░░░░░░░░░ -->
-
 | 🎯 | 🧠 | 🏆 | 🚀 |
 |:--:|:--:|:--:|:--:|
 | **Focus** | **Learning** | **Competing** | **Building** |
@@ -89,6 +103,35 @@ Motto:       Simple > clever. Correct > fast.
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<div align="center">
+
+## ◈ 3D LANGUAGE CUBE ◈
+
+<!-- فكرة مبتكرة: اللغات معروضة في شكل مكعب ثلاثي الأبعاد (isometric) -->
+<!-- مع أيقونات skillicons بزاوية + تأثير عمق -->
+
+</div>
+
+<div align="center">
+
+<!-- مكعب لغات متحرك فعليًا: بيلف + ألوانه بتتبدّل + اللغات بتدور في مدار -->
+<img src="./assets/lang-cube.svg" width="60%" alt="Rotating 3D language cube" />
+
+<br/><br/>
+
+<!-- أيقونات اللغات الحقيقية تحت المكعب -->
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,java,python,html,css,ruby&theme=dark&perline=9" />
+
+<br/><br/>
+
+> 🧊 *المكعب بيلف باستمرار وألوانه بتتبدّل كل ثانية — وحواليه أسماء اللغات بتدور في مدار 3D.*
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rainbow%20Line.gif" width="100%" alt="rainbow divider"/>
 
 ---
 
@@ -249,7 +292,7 @@ Motto:       Simple > clever. Correct > fast.
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=10&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-ahmed26&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-ahmed26&bg_color=0d1117&color=00ff88&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -277,8 +320,6 @@ Motto:       Simple > clever. Correct > fast.
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░ CP JOURNEY ROADMAP ░░░░░░░░░░░░░░░░ -->
-
 ```mermaid
 graph LR
     A[🌱 Basics] --> B[📚 Data Structures]
@@ -286,9 +327,9 @@ graph LR
     C --> D[🏆 ICPC Assiut]
     D --> E[🚀 ICPC Regional]
     style A fill:#0d1117,stroke:#00ff88,color:#00ff88
-    style B fill:#0d1117,stroke:#00cc66,color:#00cc66
+    style B fill:#0d1117,stroke:#22d3ee,color:#22d3ee
     style C fill:#0d1117,stroke:#00ff88,color:#00ff88
-    style D fill:#0d1117,stroke:#00cc66,color:#00cc66
+    style D fill:#0d1117,stroke:#f59e0b,color:#f59e0b
     style E fill:#0d1117,stroke:#00ff88,color:#00ff88
 ```
 
@@ -388,7 +429,7 @@ const roadmap = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rainbow%20Line.gif" width="100%" alt="rainbow divider"/>
 
 ---
 
@@ -449,9 +490,10 @@ const roadmap = {
 
 > *"Build real projects. Learn deeply. Ship it."*
 
-*⚡ المنيا، مصر 🇪🇬 · IT Student · Grinding every day*
+*⚡ الم��يا، مصر 🇪🇬 · IT Student · Grinding every day*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:009944,50:00cc66,100:00ff88&height=150&section=footer&text=Keep%20Grinding%20%E2%9A%A1&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
+<!-- ░░░░░░░░░░░░░░░ COLOR-SHIFTING FOOTER WAVE ░░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16,12,4,3,2&height=160&section=footer&text=Keep%20Grinding%20%E2%9A%A1&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=58"/>
 
 </div>
 
