@@ -312,10 +312,10 @@ Motto:       Simple > clever. Correct > fast.
 
 ```mermaid
 graph LR
-    A[🌱 Basics] --> B[📚 Data Structures]
-    B --> C[⚙️ Algorithms]
-    C --> D[🏆 ICPC Assiut]
-    D --> E[🚀 ICPC Regional]
+    A[Basics] --> B[Data Structures]
+    B --> C[Algorithms]
+    C --> D[ICPC Assiut]
+    D --> E[ICPC Regional]
     style A fill:#0d1117,stroke:#00ff88,color:#00ff88
     style B fill:#0d1117,stroke:#22d3ee,color:#22d3ee
     style C fill:#0d1117,stroke:#00ff88,color:#00ff88
