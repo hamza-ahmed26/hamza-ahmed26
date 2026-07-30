@@ -8,13 +8,19 @@
 <img src="https://img.shields.io/badge/focus-cybersecurity-00ff9d?style=flat-square" alt="focus" />
 <img src="https://img.shields.io/badge/ICPC-Assiut-ff3b5c?style=flat-square" alt="icpc" />
 
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hi there, I'm Hamza
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=IT+Student+at+Minya+University;Competitive+Programmer+%40+ICPC+Assiut;Building+tools+for+students%2C+one+repo+at+a+time;مفيش+level+صعب+لو+عندك+هدف+واضح;Heading+toward+Security+Engineering" alt="typing"/>
 </picture>
 
 <br/>
 
-**📑 Quick Navigation:** [About](#about-me) · [Tech Stack](#tech-stack) · [Competitive Programming](#competitive-programming) · [Journey Map](#journey-map) · [Code Manifesto](#code-manifesto) · [GitHub Stats](#github-stats) · [Level Progression](#level-progression) · [Daily Quote](#daily-quote) · [Connect](#connect-with-me)
+**📑 Quick Navigation:** [About](#about-me) · [Tech Stack](#tech-stack) · [Featured Project](#-featured-project) · [Competitive Programming](#competitive-programming) · [Journey Map](#journey-map) · [Code Manifesto](#code-manifesto) · [GitHub Stats](#github-stats) · [Level Progression](#level-progression) · [Daily Quote](#daily-quote) · [Connect](#connect-with-me)
 
 </div>
 
@@ -115,6 +121,43 @@ fn main() {
 ```
 
 **Currently sharpening:** C++ (STL, algorithms) · C# / .NET (OOP) · SQL Server · JavaScript basics
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rainbow%20Line.gif" width="100%"/>
+
+## 🚀 Featured Project
+
+<table align="center" width="90%">
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="90"/>
+
+### 📚 Library Management System — C# / OOP
+
+</div>
+
+> Sprint 1 project applying core OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction) built as part of university coursework under Dr. Ali Ali Satouhi.
+
+**Highlights:**
+- 🏗️ Clean class architecture (`Book`, `Member`, `Library`, `Transaction`)
+- 🔄 Full CRUD operations for books & members
+- 📖 Borrow/Return logic with validation rules
+- 🎯 Built to reinforce OOP fundamentals hands-on
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-00e5ff?style=for-the-badge"/>
+</p>
+
+<a href="https://github.com/hamza-ahmed26/library-management-system" target="_blank">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Rainbow%20Line.gif" width="100%"/>
 
@@ -219,14 +262,20 @@ flowchart LR
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&icon_color=00ccff&text_color=ffffff&include_all_commits=true" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=ffffff" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=hamza-ahmed26&theme=dark&hide_border=true&background=0d0d1a&ring=00ffcc&fire=00ccff&currStreakLabel=00ffcc&sideLabels=aaffee&dates=888888" alt="streak"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed26&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&icon_color=00ccff&text_color=ffffff&include_all_commits=true" width="100%" alt="stats"/>
+      <br/>
+      <img width="100%" src="https://streak-stats.demolab.com/?user=hamza-ahmed26&theme=dark&hide_border=true&background=0d0d1a&ring=00ffcc&fire=00ccff&currStreakLabel=00ffcc&sideLabels=aaffee&dates=888888" alt="streak"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ahmed26&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=ffffff" width="100%" alt="top langs"/>
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-ahmed26&bg_color=0d0d1a&color=00ffcc&line=00ccff&point=ffffff&area_color=00ffcc20&area=true&hide_border=true" alt="activity graph"/>
@@ -241,6 +290,10 @@ flowchart LR
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-ahmed26/hamza-ahmed26/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/hamza-ahmed26/hamza-ahmed26/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+<br/>
+
+<img src="https://count.getloli.com/@:hamza-ahmed26?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="visitor counter"/>
 
 </div>
 
