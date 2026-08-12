@@ -412,3 +412,27 @@ flowchart LR
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,24,20,12,4&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="footer"/>
 
 </div>
+
+ontribution Space Shooter
+<p align="center"> <img src="https://raw.githubusercontent.com/hamza-ahmed26/hamza-ahmed26/output/space-shooter.gif" alt="hamza-ahmed26's contribution Space Shooter" /> </p> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Hamza%20Ahmed;Welcome+to+my+profile!" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://avatars.githubusercontent.com/u/250721788?u=d6dcf2b2a8d81ea3fed9b93fad3aa0762739cc4b&v=4" width="150" style="border-radius: 50%;" alt="Hamza Ahmed" /> </p>
+👨‍💻 About Me
+Howdy , I'm normal human 😁
+
+📍 Based in minia
+🏢 Working at Minia University
+👥 27 followers · 55 following
+🛠️ Languages & Tools
+HTMLTypeScriptJavaScriptC++C#CSS
+
+📊 GitHub Stats
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=hamza-ahmed26&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=hamza-ahmed26&theme=github-dark&style=terminal" alt="GitHub Stats" /></picture> </p>
+🚀 Featured Projects
+ICPC-Assiut-Sheets C++
+أبسط شرح وحلول شيتات أسيوط للمبتدئين (Newcomers) بلغة C++، مع توضيح الفكرة لكل مسألة. ⭐ 3 | 🍴 0
+
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=hamza-ahmed26&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=hamza-ahmed26&theme=github-dark&style=terminal" alt="hamza-ahmed26 contribution activity" /></picture> </p>
+🤝 Connect With Me
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=hamza-ahmed26&theme=github-dark&x=Ham70211Kafafi&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=hamza-ahmed26&theme=github-dark&x=Ham70211Kafafi&style=terminal" alt="hamza-ahmed26 social links" /></picture> </p>
+GitHubTwitter
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
